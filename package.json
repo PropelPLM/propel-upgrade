@@ -1,0 +1,19 @@
+{
+  "name": "propel-upgrade",
+  "version": "1.0.0",
+  "description": "node app to help deploy upgrade features into a customer's org",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PropelPLM/propel-upgrade.git"
+  },
+  "author": "propel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PropelPLM/propel-upgrade/issues"
+  },
+  "homepage": "https://github.com/PropelPLM/propel-upgrade#readme"
+}

@@ -1,0 +1,9 @@
+{
+    "description": "Node app to help automate the Propel upgrade process",
+    "image": "heroku/nodejs",
+    "keywords": ["express", "node", "static"],
+    "logo": "http://node-js-sample.herokuapp.com/node.svg",
+    "name": "Propel Upgrade Service",
+    "repository": "https://github.com/PropelPLM/propel-upgrade.git"
+  }
+  
