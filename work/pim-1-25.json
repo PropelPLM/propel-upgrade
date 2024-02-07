@@ -1,0 +1,9 @@
+{
+    "picklists": [
+        {
+            "fieldName": "Type__c",
+            "newValues": [ "Richtext" ],
+            "sobjectName": "Attribute_Label__c"
+        }
+    ]
+}
